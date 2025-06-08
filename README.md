@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning about bug bounty and cyber security
 
+![](https://github.com/user-attachments/assets/b6b9c26f-a3e9-4169-a3fd-319c392577cf)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x86.root) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0x86user) 
@@ -21,4 +22,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=roshan142&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
